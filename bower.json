@@ -1,0 +1,23 @@
+{
+  "name": "WGSN",
+  "version": "0.0.0",
+  "authors": [
+    "william jiang"
+  ],
+  "description": "william jiang for WGSN assignment",
+  "main": "index.html",
+  "keywords": [
+    "WGSN"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
