@@ -1,6 +1,6 @@
 # WGSN canvas, draggable images and performance
 
-When you have searched for some images, you can click any of the images there to add them to the Canvas part of the page. 
+When click any of right-side images, it will add the image to the Canvas part of the left.
 When the image is added to the Canvas then it’s automatically created as a new layer. 
 Each layer can be manipulated in the following ways:
 
@@ -16,8 +16,8 @@ Each layer can be manipulated in the following ways:
 1. Dragable, movable in Canvas.
 1. Resizable
 1. Rotating
-1. no CPU issue
-1. no Memory leak
+1. no CPU issue, the CPU remains stable and reasonable.
+1. no Memory leak, the memory remains stable
 1. Multi-images co-exist in Canvas, the screen is clean, separated by layers.
 1. both `drag` and `click` right-side images work
 1. use `jQuery` and `Twitter Bootstrap` latest version
