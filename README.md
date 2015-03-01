@@ -1,15 +1,3 @@
-# WGSN canvas, draggable images and performance
-
-When click any of right-side images, it will add the image to the Canvas part of the left.
-When the image is added to the Canvas then it’s automatically created as a new layer. 
-Each layer can be manipulated in the following ways:
-
-1. mousedown
-1. mouseup
-1. mousemove
-1. scale/resize
-1. rotate
-
 ## Quick start:
 ```bash
 $ git clone https://github.com/williamjxj/WGSN.git
@@ -22,6 +10,19 @@ To access the page:
 1. in `Webstorm`, click `index.html` to directly access the webpage.
 1. using a [http server](https://www.npmjs.com/package/http-server), then open it with the web server supports
 1. or from: http://dixitruth.com:9090/wsgn
+
+
+# canvas, draggable images and performance
+
+When click any of right-side images, it will add the image to the Canvas part of the left.
+When the image is added to the Canvas then it’s automatically created as a new layer. 
+Each layer can be manipulated in the following ways:
+
+1. mousedown
+1. mouseup
+1. mousemove
+1. scale/resize
+1. rotate
 
 ## Advantages:
 
