@@ -9,7 +9,7 @@ To access the page:
 
 1. in `Webstorm`, click `index.html` to directly access the webpage.
 1. using a [http server](https://www.npmjs.com/package/http-server), then open it with the web server supports
-1. or from: http://dixitruth.com:9090/wsgn
+1. or from: http://dixitruth.com:9090/
 
 
 # canvas, draggable images and performance
