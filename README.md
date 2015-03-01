@@ -10,6 +10,18 @@ Each layer can be manipulated in the following ways:
 1. scale/resize
 1. rotate
 
+## Quick start:
+```bash
+$ git clone https://github.com/williamjxj/WGSN.git
+$ cd WGSN
+$ bower install
+```
+
+To access the page:
+
+1. in `Webstorm`, click `index.html` to directly access the webpage.
+1. using a [http server](https://www.npmjs.com/package/http-server), then open it with the web server supports
+1. or from: http://dixitruth.com:9090/wsgn
 
 ## Advantages:
 
